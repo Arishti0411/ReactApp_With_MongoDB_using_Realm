@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ReactApp_With_MongoDB_using_Realm/static/css/main.7adfd5b4.chunk.css",
+    "main.js": "/ReactApp_With_MongoDB_using_Realm/static/js/main.28d5ac9c.chunk.js",
+    "main.js.map": "/ReactApp_With_MongoDB_using_Realm/static/js/main.28d5ac9c.chunk.js.map",
+    "runtime-main.js": "/ReactApp_With_MongoDB_using_Realm/static/js/runtime-main.b98c80bc.js",
+    "runtime-main.js.map": "/ReactApp_With_MongoDB_using_Realm/static/js/runtime-main.b98c80bc.js.map",
+    "static/js/2.be45081b.chunk.js": "/ReactApp_With_MongoDB_using_Realm/static/js/2.be45081b.chunk.js",
+    "static/js/2.be45081b.chunk.js.map": "/ReactApp_With_MongoDB_using_Realm/static/js/2.be45081b.chunk.js.map",
+    "static/js/3.ad8f15e9.chunk.js": "/ReactApp_With_MongoDB_using_Realm/static/js/3.ad8f15e9.chunk.js",
+    "static/js/3.ad8f15e9.chunk.js.map": "/ReactApp_With_MongoDB_using_Realm/static/js/3.ad8f15e9.chunk.js.map",
+    "static/js/4.9dca7b3a.chunk.js": "/ReactApp_With_MongoDB_using_Realm/static/js/4.9dca7b3a.chunk.js",
+    "static/js/4.9dca7b3a.chunk.js.map": "/ReactApp_With_MongoDB_using_Realm/static/js/4.9dca7b3a.chunk.js.map",
+    "static/js/5.3fbeb02e.chunk.js": "/ReactApp_With_MongoDB_using_Realm/static/js/5.3fbeb02e.chunk.js",
+    "static/js/5.3fbeb02e.chunk.js.map": "/ReactApp_With_MongoDB_using_Realm/static/js/5.3fbeb02e.chunk.js.map",
+    "index.html": "/ReactApp_With_MongoDB_using_Realm/index.html",
+    "static/css/main.7adfd5b4.chunk.css.map": "/ReactApp_With_MongoDB_using_Realm/static/css/main.7adfd5b4.chunk.css.map",
+    "static/js/2.be45081b.chunk.js.LICENSE.txt": "/ReactApp_With_MongoDB_using_Realm/static/js/2.be45081b.chunk.js.LICENSE.txt",
+    "static/js/3.ad8f15e9.chunk.js.LICENSE.txt": "/ReactApp_With_MongoDB_using_Realm/static/js/3.ad8f15e9.chunk.js.LICENSE.txt",
+    "static/js/4.9dca7b3a.chunk.js.LICENSE.txt": "/ReactApp_With_MongoDB_using_Realm/static/js/4.9dca7b3a.chunk.js.LICENSE.txt",
+    "static/js/5.3fbeb02e.chunk.js.LICENSE.txt": "/ReactApp_With_MongoDB_using_Realm/static/js/5.3fbeb02e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b98c80bc.js",
+    "static/js/3.ad8f15e9.chunk.js",
+    "static/css/main.7adfd5b4.chunk.css",
+    "static/js/main.28d5ac9c.chunk.js"
+  ]
+}
